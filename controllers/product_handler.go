@@ -1,4 +1,3 @@
-// controllers/product_handler.go
 package controllers
 
 import (
